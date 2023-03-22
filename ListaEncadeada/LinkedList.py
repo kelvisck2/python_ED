@@ -85,7 +85,7 @@ lista.append(21)
 lista.append(26)
 lista.append(243)
 
-#ponteiro2 = lista.head"""
+#ponteiro2 = lista.head a"""
 
 #while(ponteiro2):
  #   print(ponteiro2.data)

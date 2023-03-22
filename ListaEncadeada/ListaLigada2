@@ -19,7 +19,7 @@ class LinkedList:
             current = current.next
 
 
-lista = LinkedList()
+"""alista = LinkedList()
 
 
 
@@ -34,4 +34,4 @@ ponteiro2 = lista.head
 
 while(ponteiro2):
     print(ponteiro2.data)
-    ponteiro2 = ponteiro2.next
+    ponteiro2 = ponteiro2.next"""
